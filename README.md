@@ -25,7 +25,8 @@ Hello_World
 NO ***OUTSIDE FILES*** WERE USED
 
 # Additional Documentation
-!At this time there is no further changed to the documentation.(https://upload.wikimedia.org/wikipedia/commons/a/ac/No-document-md.png)
+At this time there is no further changed to the documentation.
+![No changes](https://upload.wikimedia.org/wikipedia/commons/a/ac/No-document-md.png)
 
 # Versioning
 No versioning was used in this example.
