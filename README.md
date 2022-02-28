@@ -15,11 +15,11 @@
 
 # How to Run Program
 Hello_World
--readme-edits
--main branch
--Pull request hello-world to compare with main branch
--Merge pull request to main branch
--Delete readme-edits
+* readme-edits
+* main branch
+* Pull request hello-world to compare with main branch
+* Merge pull request to main branch
+* Delete readme-edits
 
 # Files Used
 NO ***OUTSIDE FILES*** WERE USED
